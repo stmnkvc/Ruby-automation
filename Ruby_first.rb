@@ -7,4 +7,5 @@ bla bla bla
 
 puts "Please enter your name here: "
 name = gets
+# added comment here
 puts "Welcome abroad Mr."+name
