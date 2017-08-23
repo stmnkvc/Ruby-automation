@@ -6,8 +6,17 @@ class ClassA
     puts "This is Instance Method"
 
   end
-end
 
-class self.classmet
+  class<<self
+    def myclsmet
+
+    puts "This is also a class method"
+
+    end
+  end
+
+  def self.classmet
   puts "This is Class Method"
+  end
+
 end

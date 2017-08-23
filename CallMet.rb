@@ -1,3 +1,3 @@
 require './ClassMet.rb'
 
-ClassA.classmet
+ClassA.myclsmet
