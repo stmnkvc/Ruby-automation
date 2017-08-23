@@ -10,4 +10,3 @@ surname = gets
 
 #promting hello message
 print "Hello Mr."+surname +name
-
